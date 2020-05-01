@@ -1,7 +1,7 @@
 ---
 title: The Real World post 1
 layout: post
-category: [The Real World]
+category: [TheRealWorld]
 ---
 
 # {{ page.title }}

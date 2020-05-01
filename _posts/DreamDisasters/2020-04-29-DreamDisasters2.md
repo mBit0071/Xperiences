@@ -1,7 +1,7 @@
 ---
 title: Dreams and Disasters post 2
 layout: post
-category: [Dreams and Disasters]
+category: [DreamsAndDisasters]
 ---
 
 # {{ page.title }}

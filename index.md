@@ -7,6 +7,7 @@ layout: default
 
 This is my space where I can jot down my thoughts, dreams, experiences. 
 
+
 ### Landing page links
 
 {% for ps in site.categories %}
