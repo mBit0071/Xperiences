@@ -1,0 +1,4 @@
+baseurl: /Xperiences
+markdown: redcarpet
+exclude: ['README.md']
+permalink: pretty
