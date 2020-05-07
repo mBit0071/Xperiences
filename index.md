@@ -20,7 +20,8 @@ Weaknesses:
 
 I do not have a pet. But if I had a dog I would name it **Zeus**.
 
-Getting to the posts. They might have some side stories or tangents. Do not let them confure you with the main storyline. To make it easy, I will try to mark them. 
+Getting to the posts. They might have some side-stories or tangents. Do not let them confuse you with the main storyline. To make it easy, I will try to mark them. 
+
 I am using numbers instead of names to protect identities of people in my surrondings. Each person gets a unique number.
 ### Landing page links
 
