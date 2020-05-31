@@ -1,4 +1,4 @@
 baseurl: /Xperiences
-markdown: redcarpet
+markdown: kramdown
 exclude: ['README.md']
 permalink: pretty

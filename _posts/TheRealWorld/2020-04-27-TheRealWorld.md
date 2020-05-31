@@ -11,7 +11,7 @@ Grand central market (GCM) is in Downtown Los Angeles and in my opinion, has mos
 GCM has Olio's pizza which serves wood fired pizza baked in what looks like a very fancy oven for relatively cheap price. The pizza's are not big but are very tasty. On this particular day, GCM was very crowded.
 
 ```
-GCM is generally crowded, but I usually do not visit GCM on weekends or holidays. I visit on a weekdays, when I think it would not be very busy.
+GCM is generally crowded, but I usually do not visit GCM on weekends or holidays. I visit on weekdays, when I think it would not be very busy.
 ```
 
 So, I order the pizza and start looking for a place to sit. After I get the pizza and grab a seat near a ramen place. This ramen place was serving in a bar style, meaning the cook is right in front of you while you are eating. The cook (I am guessing here, it might just be a worker) got me a glass of water. 
