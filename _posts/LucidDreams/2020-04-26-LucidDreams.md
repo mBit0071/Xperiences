@@ -11,6 +11,7 @@ I am driving a pickup truck. And I drove to look at sky in a desert. I have watc
 
 ![A desert sky in Chile]({{site.baseurl}}/images/DesertNightSky.jpg)
 
+
 ```
 To put the desert on map, let's call it Joshua Tree National Park. 
 I have never been to Joshua Tree, having lived to it so close, I feel pretty bad. 
@@ -21,11 +22,14 @@ I think it is becuase I percieve them as places with higher temperatures. I usua
 335 has called me "perishable" like fruits, which I found very funny, but true.
 ```
 
+
 So, I reach the desert and park in middle of nowhere. I lie in the truck bed looking at the night sky. This was my first time looking at the night sky.
+
 
 ```
 Well, to be honest, second. First time I saw a night sky like that was on Pacific Coast Highway.
 ```
+
 
 An hour or two passes and I start hearing strange noises. I could not pin point where they were coming from. So, I get down to inspect. I see a bunch of wolves. I guess they wanted to hunt me. I fought them as they tried to bite me. I smash some of them pretty bad and they were squealing. A couple of them bit me on my shoulders and arm. 
 

@@ -8,7 +8,7 @@ category: [TheRealWorld]
 
 Grand central market (GCM) is in Downtown Los Angeles and in my opinion, has most diverse cuisines per sq inch of all of Los Angeles. You can find everything from PB&J to Tacos, Ramen to Pasta, Bratwurst to noodles and Pizza to Burgers. GCM is a tight place and each restaurant is competing fiercely. 
 
-GCM has Olio's pizza which serves wood fired pizza baked in what looks like a very fancy oven for relatively cheap price. The pizza's are not big but are very tasty. On this particular day, GCM was very crowded.
+GCM has Olio\'s pizza which serves wood fired pizza baked in what looks like a very fancy oven for relatively cheap price. The pizza\'s are not big but are very tasty. On this particular day, GCM was very crowded.
 
 ```
 GCM is generally crowded, but I usually do not visit GCM on weekends or holidays. I visit on weekdays, when I think it would not be very busy.
